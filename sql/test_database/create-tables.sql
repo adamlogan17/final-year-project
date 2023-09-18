@@ -1,5 +1,0 @@
-CREATE TABLE IF NOT EXISTS test_table (
-  ID SERIAL PRIMARY KEY,
-  name VARCHAR(30),
-  email VARCHAR(30)
-);
